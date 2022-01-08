@@ -1,6 +1,6 @@
 according to a person's :
 Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age
-we need to determine if they're ill or not 
+we need to predict if they're ill or not 
 1-needs a medical help
 0-healthy
 
